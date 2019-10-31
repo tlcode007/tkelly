@@ -3,7 +3,7 @@ package com.edgetechHomeWork;
 public class whileLoop {
     public static void main(String[] args) {
        int t = 0;
-        while (t <=10); {
+        while (t <=10) {
             System.out.println(t);
             t++;
 
